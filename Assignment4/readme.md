@@ -1,1 +1,1 @@
-
+Here is the W4 assignment. It has very minor changes to the existing w4 document and only incorporates the use of dashboards. The pdf should be posted in place of the existing google doc. The word docx is included for ease of minor editing.
